@@ -1,0 +1,23 @@
+title = "CCAI"
+baseURL = "https://placeholdername.willitcode.com"
+theme = "ananke"
+
+[[menus.main]]
+    name = "The Problem"
+    url = "/problem"
+    weight = 1
+
+[[menus.main]]
+    name = "The Causes" # alt title: Why It's Happening
+    url = "/causes"
+    weight = 2
+
+[[menus.main]]
+    name = "The Impacts"
+    url = "/impacts"
+    weight = 3
+
+[[menus.main]]
+    name = "Our Solutions"
+    url = "/solutions"
+    weight = 4
