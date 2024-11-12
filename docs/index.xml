@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello! on CCAI</title>
-    <link>https://placeholdername.willitcode.com/</link>
+    <link>https://ccai.willitcode.com/</link>
     <description>Recent content in Hello! on CCAI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://placeholdername.willitcode.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ccai.willitcode.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
