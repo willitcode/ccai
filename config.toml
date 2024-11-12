@@ -2,6 +2,12 @@ title = "CCAI"
 baseURL = "https://ccai.willitcode.com"
 theme = "ananke"
 
+[params]
+background_color_class = "bg-dark-green"
+# Can't figure out how to get this to tint the image
+# without also dimming the text
+#cover_dimming_class = "bg-dark-green o-60"
+
 [[menus.main]]
     name = "The Problem"
     url = "/problem"

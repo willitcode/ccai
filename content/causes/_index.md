@@ -2,4 +2,7 @@
 title = 'The Causes' # alt title: 'Why It's Happening'
 +++
 
-copy from johan
+As climate change has worsened, colonialism has been digitized into data colonialism, which is a new term that has slowly transformed our reality. Amitav Ghosh’s book *The Great Derangement* elaborates on how colonialism began and worsened the impacts of climate change. Data colonialism is a new, digitalized version of colonialism that has created economic, sociological, and ecological impacts in the world. Several corporations like Google and Microsoft have begun expanding new regional hubs at profitable locations. While establishing regional hubs for various businesses doesn’t directly harm first-world countries, it takes away and competes against the natives of second and third-world countries that rely on those same resources. Since AI and its data centers require millions of gallons of potable water per day, this creates a question in morality behind the government as to who should be prioritized; Their people or the advancement of technology. 
+
+Unfortunately, government officials in countries such as Uruguay and Chile, have prioritized the future of their economy rather than the citizens of their nations. Corporations attempt to exploit regions that are profitable to them and have less strict environmental regulations. In other words, vulnerable regions such as Latin America, Africa, and Asia are “cash cow” locations for the IT industry. Government officials hope that the introduction and development of IT infrastructure will bring prosperity to the economy. However, Steven Gonzalez Monserrate states “This is not a permanent industry. It is extractive like, like mines”. 
+
