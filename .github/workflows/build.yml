@@ -31,3 +31,4 @@ jobs:
        with:
          source_branch: 'main'
          release_branch: 'pages'
+         hugo_publish_directory: 'publish'
