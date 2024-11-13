@@ -1,6 +1,9 @@
 +++
 title = 'The Impacts'
+featured_image = "/img/documerica-unsplash-2.jpg"
 +++
+
+###### Photo by Documerica on Unsplash
 
 As big tech companies across the world turn their focus to the power of AI, the number of resource-intensive data centers needed to support the growing industry only increases.[^1] Because data centers require so much electricity, companies constructing data centers often choose areas with cheap, instead of renewable, energy sources meaning that they rely on coal or oil burning power plants which have massive carbon footprints.[^2] New data centers can often delay the closing of these carbon-producing power plants, or even prompt the construction of new ones to provide the necessary electricity, pumping out more carbon into the atmosphere, continuing to warm the planet and provoke extreme weather events. 
 

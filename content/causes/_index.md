@@ -1,6 +1,9 @@
 +++
 title = 'The Causes' # alt title: 'Why It's Happening'
+featured_image = "/img/kevin-olson-r-unsplash-1.jpg"
 +++
+
+###### Photo by Kevin Olson on Unsplash
 
 As climate change has worsened, colonialism has been digitized into data colonialism. Data colonialism is a new, digitalized version of colonialism that has created new ways forms of colonial exploitation, which have expanded those same impacts. Data colonialism is the major cause behind this massive problem we have with AI and the environment, which explains why several corporations like Google and Microsoft have begun developing new regional hubs at profitable locations. While establishing regional hubs for various businesses doesn’t directly harm first-world countries, it takes away from and competes against the natives of second and third-world countries that rely on those same resources. Since AI and its data centers require millions of gallons of potable water per day, this creates a question in morality behind the government as to who should be prioritized: Their people or the advancement of technology. 
 

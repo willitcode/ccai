@@ -1,10 +1,10 @@
 +++
 title = 'Hello!'
 description = "We're Citizens for Clean Artificial Intelligence, and we're an advocacy group working to decrease the environmental impact of artificial intelligence."
-featured_image = '/img/dominik-dancs-unsplash.jpg'
+featured_image = '/img/dan-cristian-padure-unsplash-1.jpg'
 +++
 
-###### Photo by Dominik Dancs on Unsplash
+###### Photo by Dan Cristian Pădureț on Unsplash
 
 We believe in the future of AI, and we're pushing to make it more eco-friendly. Currently, AI has huge environmental effects through its water consumption, greenhouse gas emissions, and the mining of silicon and other raw materials. Our work revolves around trying to reduce those emissions while still allowing for the incredible potential of AI's contributions to global environmental preservation efforts.
 
