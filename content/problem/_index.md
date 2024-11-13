@@ -1,6 +1,9 @@
 ---
 title: The Problem
+featured_image: "/img/t-l-unsplash-1.jpg"
 ---
+
+###### Photo be T L on Unsplash
 
 AI is beginning to pose a massive threat to the environment by impacting global consumption of water and various raw materials. AI servers are stored in data centers that produce massive amounts of electronic waste, which contains mercury and lead, both extremely toxic and dangerous substances. 
 

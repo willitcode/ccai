@@ -1,7 +1,10 @@
 ---
 title: 'Solutions'
 description: 'Our work towards a brighter future with cleaner AI'
+featured_image: "/img/vitalii-khodzinskyi-unsplash-1.jpg"
 ---
+
+###### Photo by Vitalii Khodzinskyi on Unsplash
 
 # Spiking Neural Networks
 Spiking Neural Networks, or SNNs, are a new kind of neural network. In Artificial Neural Networks, or ANNs, the current standard, the artificial "neurons" are basically active all the time. SNNs, on the other hand, behave more like a human brain—the neurons only activate when they are actively communicating with each other. This leads SNNs to be up to 280 times more efficient than ANNs.[^1] This increase in efficiency means a decrease in both greenhouse gas emissions *and* water consumption, since it's an increase in overall computing efficiency.
