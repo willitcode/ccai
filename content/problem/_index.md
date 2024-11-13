@@ -1,6 +1,7 @@
 ---
 title: The Problem
 featured_image: "/img/t-l-unsplash-1.jpg"
+description: "What's wrong with AI and the environment"
 ---
 
 ###### Photo be T L on Unsplash

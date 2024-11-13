@@ -1,6 +1,7 @@
 +++
 title = 'The Impacts'
 featured_image = "/img/documerica-unsplash-2.jpg"
+description = "The real-world environmental harms of AI"
 +++
 
 ###### Photo by Documerica on Unsplash

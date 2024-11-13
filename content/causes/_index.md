@@ -1,6 +1,7 @@
 +++
 title = 'The Causes' # alt title: 'Why It's Happening'
 featured_image = "/img/kevin-olson-r-unsplash-1.jpg"
+description = "The underlying reasons behind the problems with AI and the environment"
 +++
 
 ###### Photo by Kevin Olson on Unsplash
